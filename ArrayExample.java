@@ -17,7 +17,7 @@ public class ArrayExample {
 				continue;
 			}
 			
-			System.out.println("Index ke-" + i + "	: " +dataProdi[i]);
+			System.out.println("Index ke-" + i + "	: " + dataProdi[i]);
 		}
 	}
 }
